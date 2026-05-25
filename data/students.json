@@ -1,0 +1,101 @@
+{
+  "school": "Ateneo de Davao University",
+  "semester": "First Semester",
+  "academic_year": "2026-2027",
+  "students": [
+    {
+      "student_id": "2026-0001",
+      "first_name": "Maria",
+      "last_name": "Santos",
+      "program": "BS Information Technology",
+      "year_level": 2,
+      "email": "maria.santos@example.com",
+      "courses": [
+        {
+          "course_code": "ITP101",
+          "course_title": "Integrative Programming Technologies",
+          "units": 3,
+          "instructor": "Mr. Jerry Canale"
+        },
+        {
+          "course_code": "DBMS201",
+          "course_title": "Database Management Systems",
+          "units": 3,
+          "instructor": "Dr. Ana Reyes"
+        },
+        {
+          "course_code": "NET202",
+          "course_title": "Networking Fundamentals",
+          "units": 3,
+          "instructor": "Engr. Carlo Cruz"
+        }
+      ]
+    },
+    {
+      "student_id": "2026-0002",
+      "first_name": "John",
+      "last_name": "Dela Cruz",
+      "program": "BS Computer Science",
+      "year_level": 3,
+      "email": "john.delacruz@example.com",
+      "courses": [
+        {
+          "course_code": "SE301",
+          "course_title": "Software Engineering",
+          "units": 3,
+          "instructor": "Dr. Liza Ramos"
+        },
+        {
+          "course_code": "AI302",
+          "course_title": "Artificial Intelligence",
+          "units": 3,
+          "instructor": "Prof. Mark Villanueva"
+        }
+      ]
+    },
+    {
+      "student_id": "2026-0003",
+      "first_name": "Angela",
+      "last_name": "Lim",
+      "program": "BS Information Systems",
+      "year_level": 1,
+      "email": "angela.lim@example.com",
+      "courses": [
+        {
+          "course_code": "IS101",
+          "course_title": "Introduction to Information Systems",
+          "units": 3,
+          "instructor": "Ms. Paula Tan"
+        },
+        {
+          "course_code": "PROG101",
+          "course_title": "Computer Programming 1",
+          "units": 3,
+          "instructor": "Mr. Daniel Uy"
+        }
+      ]
+    },
+    {
+      "student_id": "2026-0004",
+      "first_name": "Miguel",
+      "last_name": "Garcia",
+      "program": "BS Information Technology",
+      "year_level": 4,
+      "email": "miguel.garcia@example.com",
+      "courses": [
+        {
+          "course_code": "CAP401",
+          "course_title": "Capstone Project 1",
+          "units": 3,
+          "instructor": "Dr. Roberto Mendoza"
+        },
+        {
+          "course_code": "CYB402",
+          "course_title": "Cybersecurity Operations",
+          "units": 3,
+          "instructor": "Mr. Jerry Canale"
+        }
+      ]
+    }
+  ]
+}
